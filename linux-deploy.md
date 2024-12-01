@@ -7,10 +7,10 @@ slug: artigo-deploy
 featured: false
 draft: false
 tags:
- - Linux
- - Deploy
- - Bash-Script
- - Shell-Script
+ - linux
+ - deploy
+ - bash-script
+ - shell-script
  - dicas
  - pesquisa
 description: Entenda qual é a importância de dominar e aprender sobre duas coisas que estão muito presentes na vida de todos nós, seja nos sites que você acessa, seja nos seus sites.
