@@ -1,17 +1,17 @@
 ---
 author: Pedro Simões ( @pedrodev )
-pubDatetime: 2024-11-23T00:00:00.000Z
-modDatetime: 2024-11-23T00:00:00.000Z
-title: JsDocs - Documentação melhorada para seu código!
-slug: jsdocs-1
+pubDatetime: 2024-12-01T00:00:00.000Z
+modDatetime: 2024-12-01T00:00:00.000Z
+title: JSDocs - Documentação melhorada para seu código!
+slug: jsdocs
 featured: false
 draft: false
 tags:
  - dicas
  - javascript
  - typescript
- - jsdocs
-description: JsDocs é uma forma de adicionar tipagem ao seu código, JavaScript, o que não é possível sem ele.
+ - docs 
+description: JSDocs é uma forma de adicionar tipagem ao seu código, JavaScript.
 ---
 
 ### **JSDoc: Tipagem para JavaScript**
