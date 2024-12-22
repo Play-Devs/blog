@@ -11,7 +11,7 @@ tags:
  - javascript
  - typescript
  - docs 
-description: JSDocs é uma forma de adicionar tipagem ao seu código, JavaScript.
+description: JSDocs é uma forma de adicionar tipagem ao seu código JavaScript.
 ---
 
 ### **JSDoc: Tipagem para JavaScript**
