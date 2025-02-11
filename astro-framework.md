@@ -13,7 +13,6 @@ tags:
  - performance
  - seo
  - frontend
- - backend
  - web
 description: Conheça este framework que vem ganhando força no mercado!
 ---

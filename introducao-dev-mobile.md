@@ -1,9 +1,9 @@
 ---
 author: Lucas Yuji ( @ujizin )
-pubDatetime: 2024-12-22T00:00:00.000Z
-modDatetime: 2024-12-22T00:00:00.000Z
-title: Dev Mobile: Onde Vivem, o Que Comem?
-slug: devmobile-intro
+pubDatetime: 2024-12-23T20:00:00.000Z
+modDatetime: 2024-12-23T20:00:00.000Z
+title: "Devs Mobile: Onde Vivem, o Que Comem?"
+slug: introducao-dev-mobile
 featured: false
 draft: false
 tags:
@@ -82,4 +82,4 @@ O Ionic foi uma das primeiras ferramentas (senão a primeira) criada para desenv
 
 Como desenvolvedor Android nativo, vejo que cada tecnologia tem seu lugar e pode se encaixar de forma estratégica dependendo do projeto ou da empresa. O importante é explorar, testar e encontrar a solução que faça sentido para você e para os objetivos do seu trabalho.
 
-Seja qual for sua escolha, o universo mobile está em constante crescimento e cheio de oportunidades. Não há um único caminho de "pedra": eu mesmo comecei como desenvolvedor front-end, explorei Flutter, e hoje foco no desenvolvimento nativo Android. O importante é estar aberto a aprender e encontrar o que melhor se adapta às suas necessidades e objetivos :)
+Seja qual for sua escolha, o universo mobile está em constante crescimento e cheio de oportunidades. Não há um único caminho de "pedra": eu mesmo comecei como desenvolvedor front-end, explorei Flutter, e hoje foco no desenvolvimento nativo Android. O importante é estar aberto a aprender e encontrar o que melhor se adapta às suas necessidades e objetivos
