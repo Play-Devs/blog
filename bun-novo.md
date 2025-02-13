@@ -2,7 +2,7 @@
 author: Gabriel Moodlight
 pubDatetime: 2024-08-02T05:00:00.000Z
 modDatetime: 2024-08-02T05:00:00.000Z
-title: Bun - O novo queridinho dos devs JS!
+title: "Bun - O novo queridinho dos devs JS!"
 slug: bun-novo
 featured: false
 draft: false
@@ -81,7 +81,7 @@ O Bun está rapidamente ganhando popularidade no ecossistema de desenvolvimento 
 
 Experimente o Bun e veja como ele pode transformar seu fluxo de trabalho e otimizar suas tarefas diárias!
 
-<!-- Qualquer dúvida, deixe nos comentários! -->
+Qualquer dúvida, deixe nos comentários!
 
 Até a próxima!
 
