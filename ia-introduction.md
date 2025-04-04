@@ -1,8 +1,8 @@
 ---
 author: Jhônata Tavares
-pubDatetime: 2025-02-11T22:10:00.000Z
-modDatetime: 2025-02-11T21:00:00.000Z
-title: 
+pubDatetime: 2025-02-12T22:00:00.000Z
+modDatetime: 2025-02-12T22:00:00.000Z
+title: "Introdução a Inteligência Artificial"
 slug: ia-introduction
 featured: false
 draft: false
@@ -10,7 +10,7 @@ tags:
  - ia
  - iniciantes
  - pesquisa
-description: Breve introdução a Inteligência Artificial.
+description: Entenda de uma forma resumida como as IAs funcionam!
 ---
 
 # O futuro...  

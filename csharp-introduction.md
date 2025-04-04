@@ -1,7 +1,7 @@
 ---
 author: Jhônata Tavares
-pubDatetime: 2025-01-22T17:00:00.000Z
-modDatetime: 2025-01-22T17:00:00.000Z
+pubDatetime: 2025-02-05T17:00:00.000Z
+modDatetime: 2025-02-05T17:00:00.000Z
 title: Conheça o C#
 slug: csharp-introduction
 featured: false
