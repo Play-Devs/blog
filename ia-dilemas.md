@@ -1,7 +1,7 @@
 ---
 author: Jhônata Tavares
-pubDatetime: 2025-02-11T22:10:00.000Z
-modDatetime: 2025-02-11T21:00:00.000Z
+pubDatetime: 2025-03-22T22:10:00.000Z
+modDatetime: 2025-03-22T21:00:00.000Z
 title: Inteligência Artificial e Seus Dilemas
 slug: ia-introduction
 featured: false
@@ -78,4 +78,4 @@ Com a criação de Regulamentações e Padrões Éticos, **podemos sim** respons
 
 ---  
 
-*De acordo com o que temos estudado sobre a IA,* ela é uma ferramenta **extraordinária** que impacta direta e indiretamente na vida de várias pessoas, porém a mesma tem seus **problemas.** Como a Inteligência Artificial ainda está em ascensão e constante aprimoramento, *vários destes problemas serão resolvidos,* e num futuro bem próximo, teremos vários sistemas de IA **justos e éticos.** Pois pegue sua pipoca e aguardemos os próximos capítulos, ou se você for mais ousado, pode desenvolver suas próprias soluções para estes problemas.  
+*De acordo com o que temos estudado sobre a IA,* ela é uma ferramenta **extraordinária** que impacta direta e indiretamente na vida de várias pessoas, porém a mesma tem seus **problemas.** Como a Inteligência Artificial ainda está em ascensão e constante aprimoramento, *vários destes problemas serão resolvidos,* e num futuro bem próximo, teremos vários sistemas de IA **justos e éticos.** Pois pegue sua pipoca e aguardemos os próximos capítulos, ou se você for mais ousado, pode desenvolver suas próprias soluções para estes problemas.
