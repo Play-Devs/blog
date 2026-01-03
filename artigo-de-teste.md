@@ -2,10 +2,10 @@
 title: "Artigo de teste"
 description: "Descriçãozinha"
 author: "Gabriel"
-pubDatetime: "2025-12-29T07:04:19.189Z"
-modDatetime: "2025-12-29T07:04:19.189Z"
+pubDatetime: "2026-01-03T05:58:55.619Z"
+modDatetime: "2026-01-03T05:58:55.619Z"
 slug: "artigo-de-teste"
-featured: true
+featured: undefined
 draft: true
 tags:
   - "Android"
@@ -13,7 +13,10 @@ tags:
   - "Mobile"
 ---
 
-### Faça sua postagem aqui...
+
+### Faça sua postagem aqui...2
 fsdfsdfsaf
 
-# fasdfasdf
+# fasdfasdf222
+
+????????
