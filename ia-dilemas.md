@@ -3,7 +3,7 @@ author: Jhônata Tavares
 pubDatetime: 2025-03-22T22:10:00.000Z
 modDatetime: 2025-03-22T21:00:00.000Z
 title: Inteligência Artificial e Seus Dilemas
-slug: ia-introduction
+slug: ia-dilemmas
 featured: false
 draft: false
 tags:
